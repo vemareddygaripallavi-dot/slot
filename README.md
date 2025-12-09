@@ -121,7 +121,8 @@ I<caption><b>SLOT TIME TABLE PALLAVI . V (25013018)</b></caption>
 ```
 
 ## OUTPUT
-![alt text](image.png)
+<img width="1357" height="898" alt="Screenshot 2025-12-09 155100" src="https://github.com/user-attachments/assets/62aa74e1-9cd6-4e65-a5fd-9e7ba4b352d6" />
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
